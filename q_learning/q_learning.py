@@ -1,5 +1,3 @@
-# Rasheuskaya Anastasiya
-# WSI, ćwiczenie 7 - uczenie się ze wzmocnieniem
 # Zaimplementuj algorytm Q-Learning i użyj go do wyznaczenia polityki
 # decyzyjnej dla problemu FrozenLake8x8-v0:
 # https://gym.openai.com/envs/FrozenLake8x8-v0/
